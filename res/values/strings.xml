@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Missed - Called</string>
+    <string name="action_settings">Settings</string>
+    <string name="introText">You only need to open this app once, enjoy!</string>
+    <string name="about_activity_title">About</string>
+    <string name="about_activity_contents">Developed by <a href="http://odaym.prtflio.eu">Oday Maleh</a>.</string>
+
+    <!-- Notification -->
+    <string name="phoneRang">Phone rang for</string>
+    <string name="phoneRang0">Phone rang for almost 1 sec</string>
+    <string name="phoneRang1">Phone rang for 1 sec</string>
+    <string name="secs">secs</string>
+    <string name="from">from</string>
+    <string name="unknownContact">Unknown Contact</string>
+    
+
+</resources>
